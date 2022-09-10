@@ -2,8 +2,7 @@
 
 I'm a master student of Politecnico di Torino.
 
-- 💻 I'm currently studying data science and object oriented programming
-- 📅 In free time I'm trying to recreate the game Risiko (aka Risk)
+- 💻 I'm currently studying mathematics in machine learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notlosca&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/notlosca)
 
