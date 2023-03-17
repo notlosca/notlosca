@@ -1,6 +1,8 @@
 ### 👋🏼 Hi everyone, I'm Lorenzo
 
-I'm a master student of Politecnico di Torino.
+I'm a master student at Politecnico di Torino.
+
+Currently working on visual servoing for autonomous nano-drones.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notlosca&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/notlosca)
