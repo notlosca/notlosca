@@ -1,6 +1,6 @@
 ### 👋🏼 Hi everyone, I'm Lorenzo
 
-I'm a master student at Politecnico di Torino.
+I'm an assistant researcher at IDSIA USI-SUPSI in Lugano, Switzerland.
 
 Currently working on visual servoing for autonomous nano-drones.
 
