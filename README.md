@@ -1,8 +1,8 @@
 ### 👋🏼 Hi everyone, I'm Lorenzo
 
-I'm an assistant researcher at IDSIA USI-SUPSI in Lugano, Switzerland.
+I'm a PhD student at SUPSI in Lugano, Switzerland.
 
-Currently working on visual servoing for autonomous nano-drones.
+Currently working on NLP for clinical healthcare.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notlosca&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/notlosca)
